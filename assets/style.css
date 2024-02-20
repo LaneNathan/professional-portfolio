@@ -31,7 +31,9 @@ nav{
   align-items: center;
   background-color: var(--tertiary);
   }
-
+h1{
+    color: var(--quinary-color);
+}
   p{
     color: var(--senary-color);
   }
