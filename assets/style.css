@@ -41,7 +41,7 @@ nav{
   background-color: var(--tertiary);
   }
 h1{
-    color: var(--quinary-color);
+    color: var(--primary-color);
 }
   p{
     color: var(--senary-color);
