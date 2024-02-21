@@ -62,6 +62,14 @@ nav{
 .h1{
     color: var(--primary-color);
 }
+#about h2{
+  color: black;
+    margin-left: 34.5rem;
+    text-align: center;
+    border-bottom-style: solid;
+    margin-right: 34.5rem;
+    border-color: #444456;
+}
   p{
     color: var(--senary-color);
     
