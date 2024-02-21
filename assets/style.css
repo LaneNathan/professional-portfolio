@@ -64,6 +64,7 @@ nav{
 }
   p{
     color: var(--senary-color);
+    
   }
   
   .profile-pic{
@@ -74,7 +75,7 @@ nav{
   }
 
    #contact, #resume{
-    background-color: #211f1f73;
+    background-color: #0000001a;
   }
  #resume{ margin-top: -1rem;
 }
