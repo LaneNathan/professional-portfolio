@@ -39,6 +39,8 @@ h1{
 #header h1{
   padding-left: 1.5rem;
   margin-top: 7.5rem;
+  font-size: xxx-large;
+  color: var(--senary-color);
 }
 
 h3{
