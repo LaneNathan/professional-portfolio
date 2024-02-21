@@ -73,7 +73,11 @@ nav{
     
   }
 
-
+   #contact, #resume{
+    background-color: #211f1f73;
+  }
+ #resume{ margin-top: -1rem;
+}
 
 
 
