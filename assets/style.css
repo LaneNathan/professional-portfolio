@@ -80,11 +80,14 @@ nav{
     display: inline-block;
     margin-left: 44.5rem;
     padding-top: 1.5rem;
+    margin-top: 1rem;
+}
     
-  }
 
    #contact, #resume{
-    background-color: #0000001a;
+    background-image: linear-gradient(to top, #701515, transparent);
+    padding-bottom: 2rem;
+
   }
 
 
