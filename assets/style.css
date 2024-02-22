@@ -89,6 +89,13 @@ nav{
     padding-bottom: 2rem;
 
   }
+#work{
+  display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+}
 
 
 
