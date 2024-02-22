@@ -47,6 +47,12 @@ h1{
 h3{
     color: var(--septenary-color);
 }
+.ref-img{
+  background-image: url("C:\Users\Public\Pictures\88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png");
+    background-size:cover;
+  background-position: center;
+}
+
 nav{
   padding: 15px 6% 15px 0;
   display: flex;
