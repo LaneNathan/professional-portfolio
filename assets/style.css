@@ -110,7 +110,23 @@ nav{
 }
 
 #refractoring{
-  position: relative;
+  width: 30%;
+    height: 83vh;
+    background-image: url(./images/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png);
+    background-size: cover;
+
 }
-  
+
+#refractoring-text{
+  background-color: #000000;
+    position: absolute;
+    margin-top: 27.5%;
+    padding-inline: 6px;
+    border-style: solid;
+    border-color: #4e84bf;
+}
+
+.horiseon-link{
+  background-size: cover;
+}
 
