@@ -97,6 +97,12 @@ nav{
     align-items: flex-start;
 }
 
-
+#work h1{
+  margin-left: 43.5rem;
+    text-align: center;
+    border-bottom-style: solid;
+    margin-right: 34.5rem;
+    border-color: #444456;
+}
 
 
