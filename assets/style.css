@@ -45,7 +45,7 @@ h1{
 }
 
 h3{
-    color: var(--septenary-color);
+    color: rgb(244 237 237);
 }
 
 
@@ -115,7 +115,7 @@ nav{
 #refractoring-text{
   background-color: #2507079c;
 position: relative;
-  margin-top: 30rem;
+  margin-top: 30.6rem;
     padding-inline: 6px;
     border-style: solid;
     border-color: #4e84bf;
@@ -129,6 +129,8 @@ position: relative;
     background-image: url(./images/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png);
     background-size: cover;
     margin-left: 3rem;
+    border: 2px solid #2c2a2a47;
+    box-shadow: 5px 9px 20px 1px #342e2eed;
 }
 
 .work-body{
@@ -144,6 +146,8 @@ position: relative;
   background-size: contain;
     width: 28.5rem;
     height: 14rem;
+    border: 2px solid #2c2a2a47;
+    box-shadow: 5px 9px 20px 1px #342e2eed;
 }
 
 
@@ -162,6 +166,8 @@ position: relative;
   background-size: cover;
   width: 22.5rem;
     height: 10rem;
+    border: 2px solid #2c2a2a47;
+    box-shadow: 5px 9px 20px 1px #342e2eed;
 }
 
 #javascript-text{
@@ -179,6 +185,8 @@ position: relative;
   background: contain;
   width: 18rem;
   height: 12rem;
+  border: 2px solid #2c2a2a47;
+    box-shadow: 5px 9px 20px 1px #342e2eed;
 }
 
 #mini-game-text{
