@@ -123,9 +123,9 @@ position: relative;
 
 .horiseon-link{
   display: flex;
-    flex-wrap: nowrap;
-  width: 30%;
-    height: 95vh;
+    flex-wrap: wrap;
+  width: 28rem;
+    height: 35rem;
     background-image: url(./images/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png);
     background-size: cover;
     margin-left: 3rem;
