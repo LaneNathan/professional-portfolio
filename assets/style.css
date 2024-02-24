@@ -94,7 +94,7 @@ nav{
 
 
 #work h1{
-  margin-left: 43.5rem;
+  margin-left: 35.5rem;
     text-align: center;
     border-bottom-style: solid;
     margin-right: 34.5rem;
@@ -109,13 +109,6 @@ nav{
     align-items: center;
 }
 
-#refractoring{
-  width: 30%;
-    height: 83vh;
-    background-image: url(./images/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png);
-    background-size: cover;
-
-}
 
 #refractoring-text{
   background-color: #000000;
@@ -127,6 +120,11 @@ nav{
 }
 
 .horiseon-link{
-  background-size: cover;
+  display: flex;
+    flex-wrap: nowrap;
+  width: 30%;
+    height: 83vh;
+    background-image: url(./images/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png);
+    background-size: cover;
 }
 
