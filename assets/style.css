@@ -108,13 +108,14 @@ nav{
     align-items: baseline;
     flex-direction: column;
     width: 42%;
+    margin-left: 11rem;
 }
 
 
 #refractoring-text{
   background-color: #000000;
-    position: absolute;
-    margin-top: 27.5%;
+position: relative;
+  margin-top: 30rem;
     padding-inline: 6px;
     border-style: solid;
     border-color: #4e84bf;
@@ -124,13 +125,14 @@ nav{
   display: flex;
     flex-wrap: nowrap;
   width: 30%;
-    height: 83vh;
+    height: 95vh;
     background-image: url(./images/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png);
     background-size: cover;
+    margin-left: 3rem;
 }
 
 .work-body{
-  width: 100%;
+  width: 90%;
     display: flex;
     justify-content: start;
     height: 40.5rem;
@@ -147,11 +149,12 @@ nav{
 
 #css-text{
   background-color: #000000;
-  position: absolute;
-  margin-top: 27.5%;
+  position: relative;
+  margin-top: 9.7rem;
   padding-inline: 6px;
   border-style: solid;
   border-color: #4e84bf;
+  margin-right: 17rem;
 }
 
 .javascript-group{
@@ -163,11 +166,12 @@ nav{
 
 #javascript-text{
  background-color: #000000;
-  position: absolute;
-  margin-top: 27.5%;
+ position: relative;
+ margin-top: 25.5%;
   padding-inline: 6px;
   border-style: solid;
   border-color: #4e84bf;
+  margin-right: 11rem;
 }
 
 .mini-game-group{
@@ -179,9 +183,11 @@ nav{
 
 #mini-game-text{
   background-color: #000000;
-  position: absolute;
-  margin-top: 27.5%;
+  position: relative;
+  margin-top: 42.5%;
   padding-inline: 6px;
   border-style: solid;
   border-color: #4e84bf;
+  margin-right: 10rem;
+
 }
