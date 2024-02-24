@@ -132,13 +132,18 @@ nav{
 .work-body{
   width: 100%;
     display: flex;
-    justify-content: space-around;
+    justify-content: start;
+    height: 40.5rem;
+    margin-left: 6rem;
 }
 
 .css-group{
   background-image: url(./images/Screenshot\ 2024-02-18\ 181210.png);
-  background-size: cover;
+  background-size: contain;
+    width: 28.5rem;
+    height: 14rem;
 }
+
 
 #css-text{
   background-color: #000000;
@@ -152,6 +157,8 @@ nav{
 .javascript-group{
   background-image: url(./images/Cashier-Responsibility.png);
   background-size: cover;
+  width: 22.5rem;
+    height: 10rem;
 }
 
 #javascript-text{
@@ -165,7 +172,9 @@ nav{
 
 .mini-game-group{
   background-image: url(./images/pixel-art-and-the-retro-game-revival-494200.webp);
-  background-size: cover;
+  background: contain;
+  width: 18rem;
+  height: 12rem;
 }
 
 #mini-game-text{
