@@ -103,10 +103,11 @@ nav{
 
 .bottom-column{
   display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-    align-content: flex-start;
-    align-items: center;
+    align-items: baseline;
+    flex-direction: column;
+    width: 42%;
 }
 
 
