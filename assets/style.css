@@ -133,3 +133,18 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+
+.css-group{
+  background-image: url(./images/Screenshot\ 2024-02-18\ 181210.png);
+  background-size: cover;
+}
+
+.javascript-group{
+  background-image: url(./images/Cashier-Responsibility.png);
+  background-size: cover;
+}
+
+.mini-game-group{
+  background-image: url(./images/pixel-art-and-the-retro-game-revival-494200.webp);
+  background-size: cover;
+}
