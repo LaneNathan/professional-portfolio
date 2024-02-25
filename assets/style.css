@@ -211,3 +211,55 @@ position: relative;
   border: 2px solid #2c2a2a47;
   box-shadow: 5px 9px 20px 1px #342e2eed;
 }
+
+@media screen and (max-width: 980px) {
+
+  body{
+    padding: 0 0 10px 0;
+
+
+  }
+  header {
+    padding: 0 0 10px 0;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+  h1{
+    padding: 0 0 10px 0;
+  }
+  nav{
+    margin-top: -11rem;
+
+  }
+  #about{
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    align-items: flex-start;
+}
+#about h2{
+  margin: 10px;
+}
+#work{
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+  width: 79%;
+}
+#work h1{
+  display: flex;
+    justify-content: center;
+    position: relative;
+    flex-direction: column;
+    width: 79%;
+}
+
+  }
+  @media screen and (max-width: 768px) {
+    
+  }
