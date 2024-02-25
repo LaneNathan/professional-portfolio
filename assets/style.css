@@ -261,5 +261,80 @@ position: relative;
 
   }
   @media screen and (max-width: 768px) {
-    
+    body{
+      padding: 0;
+
+    }
+    header{
+      padding-right: 6rem;
+    }
+    #work{
+      width: 100%;
+    }
+    #work h1{
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-content: flex-start;
+      align-items: flex-start;
+      margin-left: 1rem;
+      margin-right: 2rem;
   }
+
+    
+    .work-body{
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      margin-left: 0rem;
+  }
+  .horiseon-link{
+    width: 42rem;
+    height: 20rem;
+    margin-left: 1rem;
+    margin-bottom: 2rem;
+  }
+  #refractoring-text{
+    position: relative;
+    margin-top: 15rem;
+  }
+  .bottom-column{
+    margin-left: 1rem;
+  }
+.css-group{
+  width: 200%;
+    background-size: cover;
+    margin-bottom: 2rem;
+}
+
+#css-text{
+  margin-right: 28rem;
+}
+
+.javascript-group{
+  width: 181%;
+  height: 37%;
+  background-size: cover;
+  background-repeat: round;
+}
+
+#javascript-text{
+  margin-right: 22rem;
+}
+
+.mini-game-group{
+  margin-top: 2rem;
+}
+
+#contact{
+
+}
+
+#contact h2{
+  margin-top: 5rem;
+}
+
+}
+    
+  
