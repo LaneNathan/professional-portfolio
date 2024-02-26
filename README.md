@@ -3,4 +3,4 @@ This project was my chance to display some of the things i've learned in class u
 
 https://lanenathan.github.io/professional-portfolio/
 
-![alt text](<assets/images/Screenshot 2024-02-18 181210.png>)
+![alt text](<./assets/images/Screenshot 2024-02-26 112359.png>)
